@@ -21,3 +21,11 @@ int a[20]={1,2,3,4,5,6,7},n=7,d=3,temp;
     return 0;
 }
 
+/*
+int k=0;
+    for (int i=d;i<n;i++)
+        b[k++]= a[i];
+    for(int i=0;i<d;i++)
+        b[k+i]=a[i];
+
+*/
