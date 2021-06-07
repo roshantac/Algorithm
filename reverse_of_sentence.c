@@ -1,5 +1,5 @@
 /*
-The program will print the reverse of given string, implemeted using stack similar operation.
+The program will print the reverse of given sentence, two implementation are shown below
 input : hello welcome to programing
 ouput : programing to welcome hello
 */
